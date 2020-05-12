@@ -11,6 +11,8 @@ namespace ConsoleApp15
         static void Main(string[] args)
         {
             Console.WriteLine("Change");
+            Console.WriteLine("Change");
+
         }
     }
 }
